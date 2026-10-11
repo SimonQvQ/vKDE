@@ -85,7 +85,7 @@ cd vKDE
 
 发布验证包括资源校验、安装器语法、隔离目录资源安装与完整回滚，以及天气解析和配置页测试。当前桌面的窗口装饰已验证加载、窗口缩放、最大化、最小化与恢复。完整布局安装器尚未在全新 Arch/Plasma 系统上端到端验证，v0.1 属于预览版；建议先运行 `--dry-run` 并保留备份。
 
-KDE Store 的天气插件条目尚未发布，仍需完成 Store 账号登录。GitHub Release 可直接下载使用。
+天气时钟已发布到 [KDE Store](https://store.kde.org/p/2378089/)，分类为 Plasma 6 Clocks。vKDE 完整桌面包通过 GitHub Release 下载。
 
 ## Credits / 开源署名
 
